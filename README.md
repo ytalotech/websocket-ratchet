@@ -205,6 +205,12 @@ docker-compose logs phpmyadmin
 4. Push para a branch
 5. Abra um Pull Request
 
+## 📄 Referências
+
+https://www.youtube.com/watch?v=Ah96QVIoWNg&ab_channel=Webslesson
+
+https://www.webslesson.info/2025/03/real-time-notification-system-in-php-using-ratchet-websocket.html
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
